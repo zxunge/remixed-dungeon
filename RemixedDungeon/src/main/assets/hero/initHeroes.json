@@ -11,7 +11,7 @@
       }
     ],
     "str": 10,
-    "hp": 2000000,
+    "hp": 20000000,
     "magicAffinity": "Common",
     "sp": 10,
     "maxSp": 10
@@ -32,7 +32,7 @@
     "knownItems": [
       {
         "kind": "PotionOfStrength"
-      }
+      },
       {
         "kind": "Ration",
         "quantity": 200

@@ -7,11 +7,11 @@
     "items": [
       {
         "kind": "Gold",
-        "quantity": 100
+        "quantity": 1000
       }
     ],
     "str": 10,
-    "hp": 2000000000,
+    "hp": 2000000,
     "magicAffinity": "Common",
     "sp": 10,
     "maxSp": 10
@@ -35,7 +35,7 @@
       }
       {
         "kind": "Ration",
-        "quantity": 2000
+        "quantity": 200
       }
     ],
     "quickslot": [

@@ -11,7 +11,7 @@
       }
     ],
     "str": 10,
-    "hp": 200000,
+    "hp": 2000000000,
     "magicAffinity": "Common",
     "sp": 10,
     "maxSp": 10
@@ -70,7 +70,7 @@
     "ring1": {
       "kind": "RingOfShadows",
       "identified": true,
-      "level": 1
+      "level": 10
     },
     "knownItems": [
       {
@@ -99,14 +99,14 @@
         "spell": "ShootInEye"
       }
     ],
-    "hp": 15,
+    "hp": 15000000,
     "magicAffinity": "Huntress"
   },
   "ELF": {
     "weapon": {
       "kind": "ElvenBow",
       "identified": true,
-      "level": 1
+      "level": 10
     },
     "items": [
       {

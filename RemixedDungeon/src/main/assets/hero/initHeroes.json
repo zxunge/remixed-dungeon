@@ -33,6 +33,10 @@
       {
         "kind": "PotionOfStrength"
       }
+      {
+        "kind": "Ration",
+        "quantity": 2000
+      }
     ],
     "quickslot": [
       {

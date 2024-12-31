@@ -11,7 +11,7 @@
       }
     ],
     "str": 10,
-    "hp": 20,
+    "hp": 200000,
     "magicAffinity": "Common",
     "sp": 10,
     "maxSp": 10

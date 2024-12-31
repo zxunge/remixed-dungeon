@@ -7,7 +7,7 @@
     "items": [
       {
         "kind": "Gold",
-        "quantity": 1000
+        "quantity": 1000000
       }
     ],
     "str": 10,
@@ -19,7 +19,8 @@
   "non_expert": {
     "items": [
       {
-        "kind": "Ration"
+        "kind": "Ration",
+        "quantity": 200
       }
     ]
   },

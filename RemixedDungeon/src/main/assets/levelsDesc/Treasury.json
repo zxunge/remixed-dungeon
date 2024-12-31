@@ -11,7 +11,7 @@
       "WAND"   : 4,
       "RING"   : 2,
       "SEED"   : 5,
-      "FOOD"   : 1,
+      "FOOD"   : 1000,
       "GOLD"   : 50,
       "RANGED" : 2,
       "BULLETS": 5,

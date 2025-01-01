@@ -20,7 +20,11 @@
     "items": [
       {
         "kind": "Ration",
-        "quantity": 200
+        "quantity": 2000
+      },
+      {
+        "kind": "ScrollOfUpgrade",
+        "quantity": 2000
       }
     ]
   },
@@ -33,10 +37,6 @@
     "knownItems": [
       {
         "kind": "PotionOfStrength"
-      },
-      {
-        "kind": "Ration",
-        "quantity": 200
       }
     ],
     "quickslot": [

@@ -138,7 +138,7 @@
     ],
     "magicAffinity": "Elf",
     "str": 9,
-    "hp": 15
+    "hp": 15000000
   },
   "NECROMANCER": {
     "armor": {
@@ -156,7 +156,7 @@
         "spell": "SummonDeathling"
       }
     ],
-    "hp": 15,
+    "hp": 15000000,
     "knownItems": [
       {
         "kind": "PotionOfHealing"
@@ -176,7 +176,7 @@
       {
         "kind": "Dart",
         "identified": true,
-        "quantity": 8
+        "quantity": 80
       }
     ],
     "magicAffinity": "Witchcraft",
@@ -201,7 +201,7 @@
       "ShamanElder"
     ],
     "str": 15,
-    "hp": 5
+    "hp": 50000000
   },
   "LICH": {
     "immunities": [

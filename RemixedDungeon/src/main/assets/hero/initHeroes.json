@@ -224,5 +224,10 @@
       "Vertigo",
       "Bleeding"
     ]
-  }
+   },
+   "PRIEST": {
+   },
+  
+   "PLAGUE_DOCTOR": {
+   }
 }
